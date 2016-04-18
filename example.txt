@@ -1,0 +1,4 @@
+hello paul
+this pattern does not match
+hello peter
+hello philip
