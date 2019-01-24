@@ -1,6 +1,6 @@
 # match
 
-This was a take home assignment I did as part of a job interview.
+`match` was a take home assignment I did as part of a job interview.
 
 ## Usage
 
